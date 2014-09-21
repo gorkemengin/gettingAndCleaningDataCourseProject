@@ -6,7 +6,9 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 ### Submissions
 1) README.md: this file
+
 2) CodeBook.md: describes the variables, the data, and any transformations or work that performed to clean up the data
+
 3) run_analysis.R: 
 	1. Merges the training and the test sets to create one data set.
 	2. Extracts only the measurements on the mean and standard deviation for each measurement. 
